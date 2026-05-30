@@ -1,5 +1,37 @@
+<h1 align="center">Hi 👋, I'm Amol Waditake</h1>
+<h3 align="center">Senior Full Stack Engineer | Team Lead | MERN Stack Expert | GIS & Mapping Specialist</h3>
+
+<p align="center">
+Building scalable web applications, geospatial platforms, and enterprise navigation systems.
+</p>
+
 # 💫 About Me:
-🔭 I’m currently working on<br>Leading the development of enterprise-scale mapping and navigation solutions at Mapsted, focusing on indoor mapping, OpenLayers integration, real-time navigation systems, location intelligence, and performance optimization of large-scale web applications.<br><br>👯 I’m looking to collaborate on<br>Open-source GIS/Mapping projects, React & Node.js applications, SaaS platforms, AI-powered developer tools, and innovative products that solve real-world problems using modern web technologies.<br><br>🤝 I’m looking for help with<br>Scaling distributed systems, cloud-native architectures, advanced geospatial technologies, startup growth strategies, and building high-impact products with global reach.<br><br>🌱 I’m currently learning<br>System Design, Cloud Architecture (AWS), AI-assisted development, advanced geospatial technologies, leadership skills, and scalable full-stack application development.<br><br>💬 Ask me about<br>React.js, Node.js, MongoDB, Express.js, MERN Stack, OpenLayers, Indoor Mapping, GIS Applications, Team Leadership, System Design, Career Growth, and Full-Stack Web Development.<br><br>⚡ Fun fact<br>I started my career in Mechanical Engineering, transitioned into Software Development, became a MERN Stack Mentor, and now lead development teams building advanced mapping and navigation products used by enterprises worldwide.<br>
+
+🔭 **Currently Working On**
+Building enterprise-scale indoor mapping, navigation, and location intelligence solutions at Mapsted while leading development initiatives across React, Node.js, OpenLayers, and geospatial technologies.
+
+👯 **Looking to Collaborate On**
+SaaS Platforms • AI Products • GIS Applications • Open Source Projects • Startup Ideas • High-Scale Web Applications
+
+🤝 **Looking For Help With**
+Distributed Systems • Cloud Architecture • AI Integrations • Engineering Leadership • Startup Growth
+
+🌱 **Currently Learning**
+System Design • AWS Cloud • Microservices • AI Engineering • Product Architecture • Engineering Management
+
+💬 **Ask Me About**
+React.js • Next.js • Node.js • MongoDB • PostgreSQL • MERN Stack • OpenLayers • GIS • Technical Leadership • System Design
+
+🏆 **Achievements**
+
+* 🚀 6+ Years of Software Engineering Experience
+* 👨‍💼 Team Lead Experience
+* 🗺️ GIS & Indoor Mapping Specialist
+* 🌍 Built Enterprise Applications Used Globally
+* 🎯 Conducted Technical Interviews & Mentored Developers
+
+⚡ **Fun Fact**
+Started as a Mechanical Engineer ➜ Transitioned into Software Development ➜ Became a MERN Mentor ➜ Now leading teams building enterprise navigation and mapping platforms.
 
 
 ## 🌐 Socials:
